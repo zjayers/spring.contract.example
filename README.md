@@ -5,7 +5,7 @@
 
 ## Description
 
-> Work in progress
+> https://www.baeldung.com/spring-cloud-contract
 
 ## Features
 
